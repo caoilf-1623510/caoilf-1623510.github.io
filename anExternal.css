@@ -1,0 +1,77 @@
+body {
+    background-color: powderblue;
+}
+
+#introPic {
+	float: right;
+	border-radius: 10px;
+    width: 400px;
+    height: 400px; 
+	margin: 15px;
+}
+
+h1 {
+    color: navy; 
+	text-align: center;
+}
+
+h2 {
+    color: blue;  
+}
+
+#deathNote {
+	border-radius: 10px;
+	margin: 10px;
+}
+
+#aot {
+	border-radius: 10px;
+	width: 400px;
+	height: 600px;
+	margin: 10px;
+}
+
+#sao {
+	border-radius: 10px;
+	width: 250px;
+	height: 400px;
+	margin: 10px;
+}
+
+#naruto {
+	border-radius: 10px;
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+}
+
+#tokyoGhoul {
+	border-radius: 10px;
+	margin: 10px;
+}
+
+#bryce {
+	border-radius: 10px;
+	width: 250px;
+	height: 350px;
+	margin: 10px;
+}
+
+#yuki {
+	border-radius: 10px;
+	margin: 10px;
+}
+
+#matsuoka {
+	border-radius: 10px;
+	margin: 10px;
+}
+
+#erica {
+	border-radius: 10px;
+	width: 250px;
+	height: 350px;
+	margin: 10px;
+}
+
+
